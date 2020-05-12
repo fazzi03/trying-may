@@ -46,4 +46,4 @@ def post_edit(request, pk):
 
 
 def about(request):
-    return HttpResponse("<h2>This Blog is Developed by Rana Fayaz </h2>")
+    return HttpResponse("<h2>This Blog is Developed by Rana Fayaz.. @fazzi01 me on twitter  </h2>")
